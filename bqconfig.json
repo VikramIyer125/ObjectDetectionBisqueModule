@@ -1,0 +1,1 @@
+{"Name": "EdgeDetection", "Author": "Vikram", "Description": "This module finds objects in images", "Inputs": {"Input Image": "image"}, "Outputs": {"Output Image": "image"}}
