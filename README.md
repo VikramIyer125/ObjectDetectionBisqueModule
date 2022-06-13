@@ -1,0 +1,2 @@
+# ObjectDetectionBisqueModule
+Bisque Module
